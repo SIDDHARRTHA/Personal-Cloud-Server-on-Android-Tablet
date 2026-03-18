@@ -15,6 +15,20 @@ This project demonstrates how to transform an Android tablet into a **production
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="img/tablet_screen.jpg" alt="Tablet Setup" width="600"/>
+</p>
+
+<p align="center">
+  <img src="img/main.png" alt="Main Server" width="280"/>
+  <img src="img/test.png" alt="Test Service" width="280"/>
+  <img src="img/ai.png" alt="AI Service" width="280"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 * Node.js (Backend)
