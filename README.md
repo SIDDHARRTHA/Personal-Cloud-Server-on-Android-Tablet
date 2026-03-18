@@ -18,12 +18,22 @@ This project demonstrates how to transform an Android tablet into a **production
 ## 📸 Screenshots
 
 <p align="center">
+  <strong>Tablet Setup</strong><br/>
   <img src="img/tablet_screen.jpg" alt="Tablet Setup" width="600"/>
 </p>
 
 <p align="center">
+  <strong>Main Server</strong><br/>
   <img src="img/main.png" alt="Main Server" width="280"/>
+</p>
+
+<p align="center">
+  <strong>Test Service</strong><br/>
   <img src="img/test.png" alt="Test Service" width="280"/>
+</p>
+
+<p align="center">
+  <strong>AI Service</strong><br/>
   <img src="img/ai.png" alt="AI Service" width="280"/>
 </p>
 
